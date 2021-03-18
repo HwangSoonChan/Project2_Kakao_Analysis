@@ -1,2 +1,3 @@
-# Project2_Kakao_Analysis
-Python_Project_Second_Kakao
+# 카카오톡 대화내용 분석
+1. 대화인원별 카톡 수 파악
+2. 대화인원별 욕설 수 파악
