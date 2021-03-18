@@ -1,0 +1,2 @@
+# Project2_Kakao_Analysis
+Python_Project_Second_Kakao
